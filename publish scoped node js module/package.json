@@ -1,0 +1,12 @@
+{
+  "name": "@zen_sept24/pranaver_square_cube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["pranavv","pranavver","square_cube"],
+  "author": "Pranav Verma",
+  "license": "ISC",
+  "description":"Simple Calculator For Square And Cube"
+}
